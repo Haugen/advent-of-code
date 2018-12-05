@@ -1,5 +1,5 @@
 const LineByLineReader = require('line-by-line');
-const lr = new LineByLineReader('./input.txt');
+const lr = new LineByLineReader('../input.txt');
 
 const inputArray = [];
 let result = 0;
