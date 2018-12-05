@@ -10,6 +10,8 @@ lr.on('line', line => {
 
 lr.on('end', () => {
   const occuredTwice = loopThroughFile(inputArray, 0);
+
+  // Final result!
   console.log(occuredTwice);
 });
 

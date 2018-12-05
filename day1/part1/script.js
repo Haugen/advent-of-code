@@ -19,5 +19,6 @@ lr.on('end', () => {
     }
   }
 
+  // Final result!
   console.log(result);
 });
