@@ -24,7 +24,6 @@ function compareLine(lineToCompare) {
     }
     if (diff === 1) {
       finished = true;
-      let index = 0;
       let result = '';
 
       for (let i = 0; i < lineToCompare.length; i++) {
