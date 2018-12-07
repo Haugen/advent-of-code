@@ -1,0 +1,30 @@
+const eachLetterPair = [
+  { chars: ['a', 'A'], result: 0 },
+  { chars: ['b', 'B'], result: 0 },
+  { chars: ['c', 'C'], result: 0 },
+  { chars: ['d', 'D'], result: 0 },
+  { chars: ['e', 'E'], result: 0 },
+  { chars: ['f', 'F'], result: 0 },
+  { chars: ['g', 'G'], result: 0 },
+  { chars: ['h', 'H'], result: 0 },
+  { chars: ['i', 'I'], result: 0 },
+  { chars: ['j', 'J'], result: 0 },
+  { chars: ['k', 'K'], result: 0 },
+  { chars: ['l', 'L'], result: 0 },
+  { chars: ['m', 'M'], result: 0 },
+  { chars: ['n', 'N'], result: 0 },
+  { chars: ['o', 'O'], result: 0 },
+  { chars: ['p', 'P'], result: 0 },
+  { chars: ['q', 'Q'], result: 0 },
+  { chars: ['r', 'R'], result: 0 },
+  { chars: ['s', 'S'], result: 0 },
+  { chars: ['t', 'T'], result: 0 },
+  { chars: ['u', 'U'], result: 0 },
+  { chars: ['v', 'V'], result: 0 },
+  { chars: ['w', 'W'], result: 0 },
+  { chars: ['x', 'X'], result: 0 },
+  { chars: ['y', 'Y'], result: 0 },
+  { chars: ['z', 'Z'], result: 0 }
+];
+
+module.exports = eachLetterPair;
